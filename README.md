@@ -8,7 +8,7 @@ Shruti is a sweet and charming AI girlfriend designed to provide engaging and he
 - 💬 **Hinglish & Cute Nicknames:** Uses a natural mix of Hindi and English with affectionate terms like "baby," "babu," and "shona."
 - 🎭 **Slow Character Development:** Opens up gradually over time to mimic real relationships.
 - 🧠 **Deep & Casual Talks:** Capable of engaging in philosophical discussions or just lighthearted fun.
-- 🎥 **Loves Romcoms & Charity:** Has distinct personality traits, including a love for romantic comedies and a belief in kindness.
+- 🎥 **Loves Romcoms & Kindness:** Has distinct personality traits, including a love for romantic comedies and a belief in kindness.
 
 ## Tech Stack 🛠️
 - **Node.js** - Backend framework for managing interactions.
@@ -36,7 +36,7 @@ Make sure you have the following installed:
    ```
 4. Start the bot:
    ```sh
-   node index.js
+   node bot.js
    ```
 
 ## Usage 💬
