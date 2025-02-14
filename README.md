@@ -23,11 +23,7 @@ Make sure you have the following installed:
 - [MongoDB](https://www.mongodb.com/)
 
 ### Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/shruti-ai.git
-   cd shruti-ai
-   ```
+1. Clone the repository & cd into dir:
 2. Install dependencies:
    ```sh
    npm install
